@@ -4,6 +4,8 @@
 
     <!-- 添加通话权限 -->
     <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <!-- 添加网络访问权限 -->
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
             android:allowBackup="true"
